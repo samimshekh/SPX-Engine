@@ -160,8 +160,6 @@ Agle version me:
 **Version:** Prototype 0.9 (Testing Build)
 **Language:** Python 3
 **License:** MIT (For research and educational use)
-
----
 ---
 
 ## **Architecture Overview**
