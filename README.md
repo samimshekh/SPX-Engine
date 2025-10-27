@@ -156,7 +156,7 @@ Agle version me:
 
 ---
 
-**Author:** Jarjish Shaikh
+**Author:** samim Shaikh
 **Version:** Prototype 0.9 (Testing Build)
 **Language:** Python 3
 **License:** MIT (For research and educational use)
